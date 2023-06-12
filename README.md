@@ -57,8 +57,6 @@ This emoji is so funny! :joy:
 
 I need to highlight these ==very important words==.
 
-### Subscript
 H~2~O
 
-### Superscript
 X^2^

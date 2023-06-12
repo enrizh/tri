@@ -1,13 +1,11 @@
-Guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
+There are guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
 
 # H1
 ## H2
 ### H3
 
 **bold text**
-
 *italicized text*
-
 > blockquote
 
 1. First item
@@ -27,12 +25,13 @@ Guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [exten
 
 ![alt text](https://www.markdownguide.org/assets/images/tux.png)
 
-## Extended Syntax ( Not all Markdown applications support these elements )
+## Extended Syntax ( not all Markdown applications support these elements )
 
 | Nombre | Apellido |
 | ----------- | ----------- |
 | Lara | Foreman |
 | Enrique | Martínez |
+|fin|fin|
 
 ### Fenced Code Block
 ```
@@ -42,8 +41,6 @@ Guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [exten
   "age": 25
 }
 ```
-
-### Footnote
 
 Here's a sentence with a footnote. [^1]
 
